@@ -5,7 +5,7 @@ body {
 	font: Comic Sans MS, Comic Sans, cursive;
 }
 .homePage {
-	background: #664675;
+	background: #663B75;
 }
 .container {
 	width: 960px;
@@ -13,7 +13,7 @@ body {
 }
 .header {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background: #8245A0;
+	background: #663B75;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
