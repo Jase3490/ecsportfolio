@@ -39,6 +39,7 @@ body {
 	text-align: center;
 }
 .footer {
+	font: Blippo, fantasy;
 	background: #B400F5;
 	margin: 0px;
 	float: left;
